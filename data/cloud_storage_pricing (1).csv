@@ -1,0 +1,34 @@
+Provider,Service,Instance Type,Region,Usage Type,Price Per Unit,Units,Currency,Performance Score,Availability,Reserved Discount 1yr,Reserved Discount 3yr
+AWS,S3 Standard,,US East,Storage,0.023,GB/Month,USD,85,99.99,20,40
+AWS,S3 Standard,,EU West,Storage,0.024,GB/Month,USD,83,99.99,20,40
+AWS,S3 Standard,,Asia Pacific,Storage,0.025,GB/Month,USD,80,99.95,20,40
+Azure,Blob Storage,,US East,Storage,0.018,GB/Month,USD,82,99.99,25,45
+Azure,Blob Storage,,EU West,Storage,0.02,GB/Month,USD,80,99.95,25,45
+Azure,Blob Storage,,Asia Pacific,Storage,0.022,GB/Month,USD,78,99.9,25,45
+Google Cloud,Cloud Storage,,US East,Storage,0.02,GB/Month,USD,87,99.99,15,35
+Google Cloud,Cloud Storage,,EU West,Storage,0.021,GB/Month,USD,85,99.95,15,35
+Google Cloud,Cloud Storage,,Asia Pacific,Storage,0.023,GB/Month,USD,83,99.9,15,35
+AWS,EC2,t2.micro,US East,Compute,0.0116,Hour,USD,75,99.95,30,60
+AWS,EC2,t3.medium,US East,Compute,0.0416,Hour,USD,85,99.95,30,60
+AWS,EC2,m5.large,US East,Compute,0.096,Hour,USD,90,99.99,30,60
+Azure,Virtual Machine,B1s,US East,Compute,0.0104,Hour,USD,78,99.95,33,62
+Azure,Virtual Machine,D2s v3,US East,Compute,0.093,Hour,USD,88,99.99,33,62
+Azure,Virtual Machine,E4 v3,US East,Compute,0.252,Hour,USD,92,99.99,33,62
+Google Cloud,Compute Engine,e2-micro,US East,Compute,0.01,Hour,USD,80,99.99,28,58
+Google Cloud,Compute Engine,e2-standard-2,US East,Compute,0.085,Hour,USD,86,99.99,28,58
+Google Cloud,Compute Engine,n2-standard-4,US East,Compute,0.32,Hour,USD,94,99.99,28,58
+AWS,RDS,db.t3.micro,US East,Database,0.017,Hour,USD,88,99.99,25,50
+AWS,RDS,db.m5.large,US East,Database,0.17,Hour,USD,92,99.99,25,50
+Azure,SQL Database,General Purpose,US East,Database,0.016,Hour,USD,85,99.95,27,52
+Azure,SQL Database,Business Critical,US East,Database,0.139,Hour,USD,93,99.995,27,52
+Google Cloud,Cloud SQL,db-f1-micro,US East,Database,0.015,Hour,USD,86,99.95,20,45
+Google Cloud,Cloud SQL,db-n1-standard-4,US East,Database,0.167,Hour,USD,90,99.99,20,45
+AWS,Lambda,,US East,Serverless,1.66667e-05,Request,USD,95,99.99,0,0
+Azure,Functions,,US East,Serverless,1.6e-05,Request,USD,93,99.95,0,0
+Google Cloud,Cloud Functions,,US East,Serverless,1.5e-05,Request,USD,94,99.99,0,0
+AWS,CloudFront,,Global,CDN,0.01,GB,USD,92,99.99,0,0
+Azure,CDN,,Global,CDN,0.013,GB,USD,90,99.9,0,0
+Google Cloud,Cloud CDN,,Global,CDN,0.012,GB,USD,91,99.95,0,0
+AWS,S3 Glacier,,US East,Archive Storage,0.004,GB/Month,USD,60,99.9,15,35
+Azure,Blob Archive,,US East,Archive Storage,0.003,GB/Month,USD,58,99.9,20,40
+Google Cloud,Cloud Storage Coldline,,US East,Archive Storage,0.0045,GB/Month,USD,62,99.9,10,30
