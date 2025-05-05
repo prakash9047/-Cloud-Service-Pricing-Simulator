@@ -67,10 +67,12 @@ If no data file is found, the application will generate sample data automaticall
 
 To use your own pricing data, create a CSV file with the format shown above and place it in the `data` directory as `cloud_storage_pricing.csv`.
 
-## Contributing
+![WhatsApp Image 2025-05-05 at 16 07 24_34ad3df1](https://github.com/user-attachments/assets/ddcdb840-e89c-4610-9205-0970b62b5bde)
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
+![WhatsApp Image 2025-05-05 at 16 08 13_2ceccb35](https://github.com/user-attachments/assets/288b3fcd-f2d1-4cbd-98aa-17e66ce8e158)
 
-This project is licensed under the MIT License.
+
+
+![WhatsApp Image 2025-05-05 at 16 08 38_291c2004](https://github.com/user-attachments/assets/4b794ff5-315a-4789-beba-e41c172c7db3)
+
